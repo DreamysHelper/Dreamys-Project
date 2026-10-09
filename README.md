@@ -1,30 +1,30 @@
  <p align="center">
-  <img src="./icon.png" alt="Dreamy's Shit Helper icon" width="160">
+  <img src="./icon.png" alt="Dreamy's Project" width="160">
 </p>
 
-<h1 align="center">Dreamy's Shit Helper</h1>
+<h1 align="center">Dreamy's Project</h1>
 
 <p align="center">
-  All-in-one utilities for Meta Quest headsets.
+  Quest utilities, device management, and customization tools.
 </p>
 
 <p align="center">
-  <strong>Version 1.7</strong> · New UI · Updated firmware support
+  <strong>Version 1.7</strong> · Updated UI · Improved compatibility
 </p>
 
 ---
 
-Dreamy's Shit Helper brings Quest device management, debugging, customization, and advanced system utilities together in one application.
+## About
 
-The exploit used by this project is private and is not publicly released.
+Dreamy's Project is a utility application for Meta Quest headsets, bringing device management, debugging, customization, and system tools together in one place.
 
-## Features
+The goal is to make common device operations easier to access through a single interface.
 
-- Updated user interface
-- Quest device management
-- ADB and Wireless ADB utilities
-- Firmware and device information
-- Advanced system tools
+## What's New in v1.7
+
+- Redesigned user interface
+- Updated device compatibility
+- General improvements and fixes
 
 ## Supported Devices
 
@@ -33,16 +33,40 @@ The exploit used by this project is private and is not publicly released.
 - Meta Quest 3
 - Meta Quest 3S
 
-Feature and firmware compatibility may vary.
+Compatibility depends on the device and installed firmware.
+
+## Features
+
+- Device and firmware information
+- ADB utilities
+- Wireless connection setup
+- Application management
+- Device troubleshooting
+- System customization
+- Performance and battery monitoring
+- Developer tools
+
+Some features may require additional permissions or setup.
+
+## Installation
+
+1. Download the APK from the project's releases.
+2. Install it using your preferred installation method.
+3. Open Dreamy's Project on your headset.
+4. Follow the setup instructions displayed in the application.
 
 ## Credits
 
 - **Lumince** — creator of [Singularity](https://github.com/Lumince/singularity)
-- **Singularity contributors** — for their original work and contributions to the Quest community
-- **Frida developers** — for the [Frida](https://github.com/frida/frida) instrumentation toolkit
+- **Singularity contributors** — contributions to the Meta Quest development community
+- **Frida developers** — [Frida](https://github.com/frida/frida)
 
-Dreamy's Shit Helper is a separate project. Credit is given to the original project and its contributors for their work.
+Thanks to the developers and community members whose work supports Quest development.
 
 ## License
 
-See the `LICENSE` file for the terms governing this project. Third-party components remain subject to their respective licenses.
+Refer to the repository's `LICENSE` file for the applicable terms. Third-party components remain subject to their respective licenses.
+
+## Disclaimer
+
+This project is provided as-is. Features and compatibility may change between releases. Always understand the effects of a system modification before applying it to your device.
